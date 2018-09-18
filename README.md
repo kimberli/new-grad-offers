@@ -1,4 +1,4 @@
-## Notes on New Grad Startup Software Engineering Offers
+## Notes on Startup Software Engineering Offers (for New Grads)
 
 Senior year in college can be overwhelming, especially with that impending sense of dread about what the hell you should be doing with your life after school.
 Unfortunately, I can't help you with any of that existential stuff.

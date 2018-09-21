@@ -175,7 +175,7 @@ Since the company is still private, you can't just turn to the public markets to
 Instead, you can estimate this (very roughly) using the company's valuation in its last funding round (or those of its peer companies).
 You might also try and apply some growth multipliers on those numbers, but don't get too carried away! ;)
 
-There are more complicated details about equity that you mostly shouldn't worry about until you actually start working&mdash;things like alternative minimum tax (AMT), 83(b) election, and early exercise. Here's a pretty good resource on [the Wealthfront blog](https://blog.wealthfront.com/when-to-exercise-stock-options/) about all that.
+There are more complicated details about equity that you mostly shouldn't worry about until you actually start working&mdash;things like alternative minimum tax (AMT), 83(b) election, and early exercise. Here's a pretty good resource from [my friend Katie](https://medium.com/@kt_seagull/understanding-incentive-stock-options-ec4c0dc1498f) and on [the Wealthfront blog](https://blog.wealthfront.com/when-to-exercise-stock-options/) about all that.
 
 ### Negotiation
 Even if you're afraid to do it, it doesn't hurt to try and ask for better compensation.

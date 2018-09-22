@@ -210,4 +210,6 @@ Take everything I say with a grain of salt, obviously, and of course there's ple
 A lot of these notes were influenced by [Julia Evans's excellent list of questions to ask](https://jvns.ca/blog/2013/12/30/questions-im-asking-in-interviews/),
 [Brian Krausz's Demystifying Startup Offers talk](https://www.youtube.com/watch?v=6EeMzzFs438),
 [Dan Luu's contrarian advice on joining a startup](https://danluu.com/startup-tradeoffs/),
-and many similar guides I've read on the internet. Thanks!
+and many similar guides I've read on the internet.
+
+Thank you to Vahid, Katie, and Yasyf for reading this over and giving feedback and for your always helpful support :)

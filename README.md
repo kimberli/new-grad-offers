@@ -5,7 +5,7 @@ Unfortunately, I can't help you with any of that existential stuff.
 However, if you're committed to working as a software engineer at a startup, and especially if you have job offers on the table you're considering,
 I will do my best to share information about important questions to ask and things to consider.
 
-I've been through my share of recruiting processes in my life, and I figured I'd write down some notes on things I verbally tell people who ask for advice.
+As a recent college CS major graduate, I've been through my share of recruiting processes in my life, so I figured I'd write down some notes on things I verbally tell people who ask for advice.
 This document is intended to be a collaborative, living document, so please contribute and suggest changes/resources!
 
 ## Table of Contents
@@ -26,15 +26,18 @@ This document is intended to be a collaborative, living document, so please cont
 ## Introduction
 The goal of this guide is specifically to help you gather all the information you need to make a decision about where to work and warn you about any potential red flags.
 It's tailored to startup jobs since it's fairly easy to gather information about large public companies
-(either recruiters will tell you outright or you can research it online) and since you're not likely to encounter any glaring issues or sketchy conversations.
+(recruiters will tell you outright, you're more likely to have friends that already work there, or you can research online) and since you're not as likely to encounter glaring issues, sketchy conversations, underpriced compensation packages, etc.
 Also, note that it's not my goal here to tell you *how* to decide where to work and what to work on&mdash;only what information you can arm yourself with and potentially use in your decision.
 
 ## General considerations
 The first thing I tell people is to try and think carefully about how you're going to narrow down your space of possibilities.
 Software engineering is still a huge space, and it's best to have as clear as possible an idea about what kind of company you want to work for,
 what kind of role you want to have, what kind of location/lifestyle you're looking for, etc.
-In my opinion, the most important thing to figure out is what stage company you'd like to be at,
+In my opinion, one really important thing is to figure out is what stage company you'd like to be at,
 since there's a huge difference in your day-to-day experience working for a huge, multinational public company versus a 1000-person unicorn versus a tiny 5-person startup.
+Note that when I say "stage", I don't necessarily mean *fundraising stage* but rather a more general sense of where the company is at in its growth cycle:
+Are they raising their first round? Developing a MVP? Productionizing? Growing past more than a handful of users? Scaling to meet large-scale demand? Closing in on an IPO?
+The answers to these questions matter more than the specific fundraising round (e.g. Series A/B/C/...) they're at, since they'll have the most practical impact on your experience as an employee and the types of contributions you make to the company.
 
 When you're finally at the deciding phase, it's best to try decide first what dimensions of a software job matter most to you,
 then bucket your considerations into a few main categories.
@@ -43,7 +46,7 @@ Your first job is just one step in your long career, and there's always room to 
 
 ## Dimensions for evaluation
 Here are some pieces of information you should gather (and questions you can ask to get them) at various phases of your interview/offer process.
-Use your best judgment about who would be best positioned to answer your questions and when it would be appropiate to ask them.
+Use your best judgment about who would be best positioned to answer your questions and when it would be appropriate to ask them.
 You certainly don't need to ask all of these, but it's good to have a general sense of the answers to the ones that are important to you.
 
 ### Business
@@ -52,24 +55,28 @@ If a company is early-stage/in stealth, note that they might not be comfortable 
 * What stage are they at in their fundraising? (seed or series A, B, C+)
 * How much money have they raised so far? What were they valued in previous rounds?
 * Who are the investors? Are they people you trust to have done diligence on this business?
+  * If you're an early hire, try and talk to at least one main investor in the last round to help get a sense of why they believe in the business and product.
+  * Also, you can look at the investors' past experiences: Have they invested in other successful companies in this space? Do the partners themselves have experience with the industry?
 * Who are the company's advisors and board members? Are they people with experience supporting fast-growing companies in your industry?
 
 Put on your VC hat and try to think about the potential for what they're working on.
-Keep in mind that if you're talking to them in the fall (i.e. almost a whole year before your start date), things might look very different by the time you join the team.
+Keep in mind that if you're talking to them in the fall (i.e. almost a whole year before your start date), things might (hopefully) look different by the time you join the team, since ideally the company will have grown over the course of the year.
 Also, if the company is early stage, don't expect completely accurate answers to these questions, but do expect the company to be thinking about these things.
 * How do they plan on making money? Does their business model check out?
 * What do you think the total addressable market is for what they're building? How would the product have to expand to grow exponentially?
 * What other competitors are in the market? What do the general market dynamics look like?
 * What are their strategic views? If they're pre-product-market-fit, what's their plan for achieving that? If they're growing past that, what's their distribution/sales strategy? If they're trending towards going public, what metrics are they trying to hit before IPOing?
 * What are examples of target customers? Are they enthusiastic users of the product?
-* Do you have faith in the business idea/product/market?
+* Do you have faith in the business idea/product/market? Does the future they're building align with your own vision of how you want to contribute to the world?
 
 Finally, try and think generally about the health of the business.
 * What experience does the executive team have? Are there any red flags (e.g. infighting, scandals, fast turnover)?
 * How quickly is the business growing? By what factor have revenue, customer metrics, headcount, etc. grown over the last quarter/year?
+  * Keep in mind that companies with different business models might grow differently--for example, B2B companies might grow faster in revenue than in people, while B2C companies might be the opposite.
 * How much cash do they have on hand? How close are they to profitability?
+* What is their burn rate? At their current spending rate, how much longer would the company live?
 * How does the executive team seem to generally think about funding and spending? When would they potentially raise another round?
-* What is the distribution of employee roles? What size is the engineering team relative to the sales team? (having a large sales team usually correlates with having a lot of customers to sell to)
+* What is the distribution of employee roles? What size is the engineering team relative to the sales team? (having a large sales team hopefully implies having a lot of customers to sell to)
 
 ### Technical rigor
 Figure out if you'd like the technical work you'd most likely be doing, the day-to-day experience of doing that work, and how much you'd be able to learn.
@@ -189,14 +196,15 @@ Don't do the thing where you negotiate higher offers just to get higher countero
 * If you're nervous, you can totally try and prepare a rough outline of what you're going to say ahead of time.
 If you're really really nervous, you can try and just put in an ask over email, but generally if you have a more personal connection it's best to navigate these kinds of discussions over the phone or in person.
 * Be excited! Phrase your hesitation in a way that makes the company want to work out a mutual agreement to help you out (i.e. improve your offer).
+* Be open to value-creating solutions that work better for everyone&mdash;for example, if the company can't afford to pay you a higher salary now, maybe it can promise a refresh after the next round is raised.
 * Also, read [Haseeb's excellent guide to negotiating your job offer](https://haseebq.com/my-ten-rules-for-negotiating-a-job-offer/).
-* Of course, don't be greedy or go over the top; most software engineering salaries are more than enough to make a comfortable living.
+* Of course, don't be greedy or go over the top; most software engineering salaries are more than enough to make a comfortable living. Make sure not to damage any relationships: even if you don't end up working at the company, it's entirely possible you cross career paths with people you talked with in the process later on.
 
 ## Closing thoughts
 That was a lot of information! I hope these notes are helpful to you in some way, and I'm always happy to chat directly about whatever specific situation you're in.
 
 Some last pieces of advice:
-* If you're talking to a founder especially, don't be afraid to be contrarian/play devil's advocate in your conversations about the business (but obviously be tactful).
+* If you're talking to a founder especially, try to be contrarian/play devil's advocate in your conversations about the business (but obviously be tactful). It's not a bad idea to see how the company's leadership responds to challenging viewpoints and disagreements.
 * After you receive an offer, your recruiter/point of contact should offer to introduce you to a few people to talk to.
 Try and talk to as many people you can in various roles, and if you have other friends who've worked at the company, ask them too!
 * If you're feeling lost, it's always fun to remember what's exciting about the new job search.
